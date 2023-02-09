@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+    - {fileID: 2800000, guid: e565c20a833b69e4598d9f81cdd6b8a5, type: 3}
+    - {fileID: 2800000, guid: 05c95f5a0ddb6e04385f2edfe7ed9866, type: 3}
+    - {fileID: 2800000, guid: deb277ae11719454a9e440a29afb8d78, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 773859889, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: 1894462778, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: -67612671, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: 785941417, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: -130952648, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: 370614951, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: -1979639768, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: 1715420903, guid: b68ae87611561a141a7871658d095c3a, type: 3}
+  - {fileID: 21300000, guid: e565c20a833b69e4598d9f81cdd6b8a5, type: 3}
+  - {fileID: 21300000, guid: 05c95f5a0ddb6e04385f2edfe7ed9866, type: 3}
+  - {fileID: 21300000, guid: deb277ae11719454a9e440a29afb8d78, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_circular
+  - icon_paint_pallet
+  - fx_glint
+  - icon_exit
+  - button_base
+  - icon_star
+  - banner_corner
+  - icon_profile
+  - bg_star
+  - bg_chess
+  - bg_bubbles
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
